@@ -10,5 +10,9 @@ col_2:
   headline: This is not
   slug: another one
   content: Donald Trump is my president <br>MAGA 2020
+menu:
+  main:
+    weight: 2
+    title: Posts
 
 ---
